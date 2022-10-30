@@ -1,3 +1,33 @@
+html{
+    background: #93add4;
+}
+
 body{
     background-color:azure;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 25px;
+    padding: 20px;
+    color: #47002c;
+    border-top: 10px solid #47002c;
+    
+}
+
+h1{
+font-size: 4em;
+margin: 0;
+}
+
+p{
+    line-height: 2em;
+}
+table, th, td{
+    border: 1px solid #47002c;
+}
+
+#blog {
+    border-top: 1px solid #47002c;
+}
+
+.blog-post{
+    border-bottom: 1px solid #47002c;
 }
