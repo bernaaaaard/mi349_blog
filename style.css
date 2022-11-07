@@ -17,6 +17,17 @@ font-size: 4em;
 margin: 0;
 }
 
+.sticky{
+    background: azure;
+    position: sticky;
+    top: 0;
+    border-bottom: 1px solid #47002c;
+    display: flex;
+    justify-content: space-between
+}
+
+
+
 p{
     line-height: 2em;
 }
@@ -28,6 +39,14 @@ table, th, td{
     border-top: 1px solid #47002c;
 }
 
-.blog-post{
-    border-bottom: 1px solid #47002c;
+h2{
+    margin-top: 100px;
+}
+
+.img-Prun{
+    width: 451px;
+    height: 633px;
+    float:right;
+    margin-left: 20px;
+    text-align: center;
 }
