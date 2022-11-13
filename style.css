@@ -26,8 +26,6 @@ margin: 0;
     justify-content: space-between
 }
 
-
-
 p{
     line-height: 2em;
 }
@@ -49,4 +47,10 @@ h2{
     float:right;
     margin-left: 20px;
     text-align: center;
+}
+
+@media (max-width: 600px){
+    .img-prun{
+        margin-bottom: 10px;
+    }
 }
