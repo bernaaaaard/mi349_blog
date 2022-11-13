@@ -52,6 +52,6 @@ h2{
 @media (max-width: 400px){
     .img-Prun{
         display: table;
-        margin-left: 0px;
+        margin-right: 20px;
     }
 }
