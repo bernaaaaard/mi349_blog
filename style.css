@@ -50,7 +50,7 @@ h2{
 }
 
 @media (max-width: 600px){
-    .img-prun{
+    img{
         margin-bottom: 10px;
     }
 }
