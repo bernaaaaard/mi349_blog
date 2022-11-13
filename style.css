@@ -53,7 +53,5 @@ h2{
     .img-Prun{
         display: table;
         margin-left: 0px;
-        display: flex;
-        justify-content: space-around;
     }
 }
